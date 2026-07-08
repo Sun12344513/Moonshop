@@ -1,9 +1,5 @@
 <div align="center">
 
-# 🌙 Moon Shop Blox Fruits
-
-<img src="https://media.tenor.com/oK4lA4X-QiUAAAAC/anime-moon.gif" width="700"/>
-
 ### ⭐ Welcome to Moon Shop ⭐
 
 *"Fast • Trusted • Quality"*
@@ -14,7 +10,7 @@
 
 # 🌙 About
 
-**Moon Shop** là một dự án dành cho cộng đồng **Blox Fruits**, được xây dựng với mục tiêu mang đến trải nghiệm tốt, giao diện đẹp và luôn được cập nhật.
+**Moon Shop** là một dự án dành cho cộng đồng **Blox Fruits**, được xây dựng với mục tiêu mang đến trải nghiệm chuyên nghiệp, giao diện đẹp, ổn định và luôn được cập nhật.
 
 ---
 
@@ -31,8 +27,18 @@
 
 <div align="center">
 
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=28&pause=1000&color=8A2BE2&center=true&vCenter=true&width=700&lines=🌙+Welcome+To+Moon+Shop!;Trusted+%7C+Fast+%7C+Quality" />
+## 🌐 Follow Moon Shop
 
-### ⭐ Thanks For Visiting ⭐
+[![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github)](https://github.com/USERNAME)
+[![Discord](https://img.shields.io/badge/Discord-5865F2?style=for-the-badge&logo=discord&logoColor=white)](https://discord.gg/INVITE)
+[![TikTok](https://img.shields.io/badge/TikTok-000000?style=for-the-badge&logo=tiktok)](https://www.tiktok.com/@USERNAME)
+
+<br><br>
+
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=28&pause=1000&color=8A2BE2&center=true&vCenter=true&width=700&lines=🌙+Welcome+To+Moon+Shop!;Trusted+%7C+Fast+%7C+Quality;Thanks+For+Visiting!" />
+
+<br><br>
+
+⭐ **Thank you for visiting Moon Shop!**
 
 </div>
